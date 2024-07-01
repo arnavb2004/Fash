@@ -5,7 +5,8 @@ Fash is an e-commerce website made using MERN stack.
 
 ![Screenshot_20240701_030610](https://github.com/arnavb2004/Fash/assets/154666778/52cde4e3-92f5-43e9-b1e3-6b9663f4ca2c)
 
-**HOW TO RUN**
+
+  **STEPS TO RUN BACKEND**
 
 1. You should have node.js installed in your local system.
 2. First we will run backend and then we can run frontend and admin.
