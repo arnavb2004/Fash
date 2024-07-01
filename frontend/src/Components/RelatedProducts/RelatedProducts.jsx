@@ -43,7 +43,7 @@ const RelatedProducts = ({ category, id }) => {
             return null; 
           })
         ) : (
-          <p>Loading related products...</p>
+          <p>Loading related products...</p> 
         )}
       </div>
     </div>
